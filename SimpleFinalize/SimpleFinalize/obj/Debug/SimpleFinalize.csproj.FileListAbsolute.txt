@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+c:\users\user\documents\visual studio 2012\Projects\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+c:\users\user\documents\visual studio 2012\Projects\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.exe.config
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\obj\Release\SimpleFinalize.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleFinalize\SimpleFinalize\bin\Release\SimpleFinalize.pdb

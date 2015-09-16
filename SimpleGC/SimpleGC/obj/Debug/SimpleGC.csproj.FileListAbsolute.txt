@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+c:\users\user\documents\visual studio 2012\Projects\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+c:\users\user\documents\visual studio 2012\Projects\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache

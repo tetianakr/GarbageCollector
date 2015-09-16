@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csprojResolveAssemblyReference.cache

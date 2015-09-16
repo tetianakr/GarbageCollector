@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\bin\Release\SimpleDispose.exe.config
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\bin\Release\SimpleDispose.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\bin\Release\SimpleDispose.pdb
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\obj\Release\SimpleDispose.exe
+c:\users\user\documents\visual studio 2012\Projects\SimpleDispose\SimpleDispose\obj\Release\SimpleDispose.pdb

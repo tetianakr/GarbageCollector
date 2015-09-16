@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\GCExc\GCExc\bin\Debug\GCExc.exe.config
+c:\users\user\documents\visual studio 2012\Projects\GCExc\GCExc\bin\Debug\GCExc.exe
+c:\users\user\documents\visual studio 2012\Projects\GCExc\GCExc\bin\Debug\GCExc.pdb
+c:\users\user\documents\visual studio 2012\Projects\GCExc\GCExc\obj\Debug\GCExc.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\GCExc\GCExc\obj\Debug\GCExc.exe
+c:\users\user\documents\visual studio 2012\Projects\GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\GCExc\GCExc\bin\Debug\GCExc.exe.config
+D:\Learning\Trainings\GarbageCollector\Examples\GCExc\GCExc\obj\Debug\GCExc.exe
+D:\Learning\Trainings\GarbageCollector\Examples\GCExc\GCExc\obj\Debug\GCExc.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\GCExc\GCExc\bin\Debug\GCExc.exe
+D:\Learning\Trainings\GarbageCollector\Examples\GCExc\GCExc\bin\Debug\GCExc.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\GCExc\GCExc\obj\Debug\GCExc.csprojResolveAssemblyReference.cache

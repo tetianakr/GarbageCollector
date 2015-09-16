@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\GCDebugRelease\GCDebugRelease\bin\Debug\GCDebugRelease.exe.config
+c:\users\user\documents\visual studio 2012\Projects\GCDebugRelease\GCDebugRelease\bin\Debug\GCDebugRelease.exe
+c:\users\user\documents\visual studio 2012\Projects\GCDebugRelease\GCDebugRelease\bin\Debug\GCDebugRelease.pdb
+c:\users\user\documents\visual studio 2012\Projects\GCDebugRelease\GCDebugRelease\obj\Debug\GCDebugRelease.exe
+c:\users\user\documents\visual studio 2012\Projects\GCDebugRelease\GCDebugRelease\obj\Debug\GCDebugRelease.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\GCDebugRelease\GCDebugRelease\bin\Debug\GCDebugRelease.exe.config
+D:\Learning\Trainings\GarbageCollector\Examples\GCDebugRelease\GCDebugRelease\obj\Debug\GCDebugRelease.exe
+D:\Learning\Trainings\GarbageCollector\Examples\GCDebugRelease\GCDebugRelease\obj\Debug\GCDebugRelease.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\GCDebugRelease\GCDebugRelease\bin\Debug\GCDebugRelease.exe
+D:\Learning\Trainings\GarbageCollector\Examples\GCDebugRelease\GCDebugRelease\bin\Debug\GCDebugRelease.pdb
+D:\Learning\Trainings\GarbageCollector\Examples\GCDebugRelease\GCDebugRelease\obj\Debug\GCDebugRelease.csprojResolveAssemblyReference.cache
